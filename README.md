@@ -1,3 +1,3 @@
 Официальная веб страница
 
-# studio-berlandbor.github.io
+# berlandbor-studio.github.io
